@@ -1,4 +1,3 @@
 
-# Assignment2
-modified by branch1
+modified by branch 2 resolving conflict
 
